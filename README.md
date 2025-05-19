@@ -123,9 +123,9 @@ Toast.makeText(this, "You Failed", Toast.LENGTH_SHORT).show();
 
 ---
 
-## 🎥 Demo
+### 🎥 Demo Video
 
-Watch the demo video:
+[Click to watch the gameplay demo](https://private-user-images.githubusercontent.com/122540669/445137282-9232098f-e23c-4944-9945-4764a30a0c8f.mp4)
 
 
 ---
